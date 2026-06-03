@@ -72,7 +72,8 @@ but i con't wann to the to the butu
 
 ## 📷 Output Screenshots
 
-![Output](output_images/output1.png)
+![Output](output_images/output.png)
+![accuracy_graph](output_images/accuracy_graph.png)
 ```
 
 ---
