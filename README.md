@@ -63,9 +63,10 @@ RNN_Lyrics_Generator/
 ### Generated Lyrics
 
 ```text
-love is in the air tonight and it soe sias to you
-i'm so sirhine io ohe what i can't have and don't be mede to tear
-but i con't wann to the to the butu
+love is in the air tonight and sooe oo hnres
+some anond tome oo hnres
+some aronn 
+you were mever mine
 ```
 
 ---
